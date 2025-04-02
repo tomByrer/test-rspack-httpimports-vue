@@ -1,6 +1,6 @@
 # test-rspack-httpimports-vue
 
-## Bug Report:
+## [Bug Report](https://github.com/web-infra-dev/rspack/issues/9867):
 
 [Rspack has a new http import feature](https://rspack.dev/blog/announcing-1-3#build-http-imports), but seems semi-buggy.
 
